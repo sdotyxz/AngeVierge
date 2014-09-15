@@ -1,0 +1,11 @@
+D:\Unity3D\U3D\Framework\Plugins\NGUI\bin\Release\NGUI.dll
+D:\Unity3D\U3D\Framework\Plugins\NGUI\bin\Release\NGUI.pdb
+D:\Unity3D\U3D\Framework\Plugins\NGUI\bin\Release\UnityEngine.dll
+D:\Unity3D\U3D\Framework\Plugins\NGUI\obj\Release\NGUI.dll
+D:\Unity3D\U3D\Framework\Plugins\NGUI\obj\Release\NGUI.pdb
+D:\Unity3D\U3D\Framework\Plugins\NGUI\obj\Release\NGUI.csprojResolveAssemblyReference.cache
+E:\Framework\Plugins\NGUI\bin\Release\NGUI.dll
+E:\Framework\Plugins\NGUI\bin\Release\NGUI.pdb
+E:\Framework\Plugins\NGUI\obj\Release\NGUI.dll
+E:\Framework\Plugins\NGUI\obj\Release\NGUI.pdb
+E:\Framework\Plugins\NGUI\obj\Release\NGUI.csprojResolveAssemblyReference.cache

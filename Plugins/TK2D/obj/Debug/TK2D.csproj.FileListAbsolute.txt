@@ -1,0 +1,15 @@
+D:\Unity3D\U3D\Framework\Plugins\TK2D\bin\Debug\TK2D.dll
+D:\Unity3D\U3D\Framework\Plugins\TK2D\bin\Debug\TK2D.pdb
+D:\Unity3D\U3D\Framework\Plugins\TK2D\bin\Debug\UnityEngine.dll
+D:\Unity3D\U3D\Framework\Plugins\TK2D\obj\Debug\TK2D.dll
+D:\Unity3D\U3D\Framework\Plugins\TK2D\obj\Debug\TK2D.pdb
+D:\Unity3D\U3D\Framework\Plugins\TK2D\bin\Debug\UnityEditor.dll
+D:\Unity3D\U3D\Framework\Plugins\TK2D\bin\Debug\Mono.Cecil.dll
+D:\Unity3D\U3D\Framework\Plugins\TK2D\bin\Debug\nunit.framework.dll
+D:\Unity3D\U3D\Framework\Plugins\TK2D\bin\Debug\Unity.DataContract.dll
+D:\Unity3D\U3D\Framework\Plugins\TK2D\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Framework\Plugins\TK2D\bin\Debug\TK2D.dll
+E:\Framework\Plugins\TK2D\bin\Debug\TK2D.pdb
+E:\Framework\Plugins\TK2D\obj\Debug\TK2D.dll
+E:\Framework\Plugins\TK2D\obj\Debug\TK2D.pdb
+E:\Framework\Plugins\TK2D\bin\Debug\UnityEngine.dll

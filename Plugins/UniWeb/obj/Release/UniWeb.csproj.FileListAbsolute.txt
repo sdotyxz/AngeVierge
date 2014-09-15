@@ -1,0 +1,12 @@
+D:\Unity3D\U3D\Framework\Plugins\UniWeb\bin\Release\UniWeb.dll
+D:\Unity3D\U3D\Framework\Plugins\UniWeb\bin\Release\UniWeb.pdb
+D:\Unity3D\U3D\Framework\Plugins\UniWeb\bin\Release\Ionic.Zlib.dll
+D:\Unity3D\U3D\Framework\Plugins\UniWeb\bin\Release\UnityEngine.dll
+D:\Unity3D\U3D\Framework\Plugins\UniWeb\obj\Release\UniWeb.dll
+D:\Unity3D\U3D\Framework\Plugins\UniWeb\obj\Release\UniWeb.pdb
+E:\Framework\Plugins\UniWeb\bin\Release\UniWeb.dll
+E:\Framework\Plugins\UniWeb\bin\Release\UniWeb.pdb
+E:\Framework\Plugins\UniWeb\bin\Release\Ionic.Zlib.dll
+E:\Framework\Plugins\UniWeb\obj\Release\UniWeb.dll
+E:\Framework\Plugins\UniWeb\obj\Release\UniWeb.pdb
+E:\Framework\Plugins\UniWeb\obj\Release\UniWeb.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Unity3D\U3D\Framework\Plugins\MsgPack\bin\Debug\MsgPack.dll
+D:\Unity3D\U3D\Framework\Plugins\MsgPack\bin\Debug\MsgPack.pdb
+D:\Unity3D\U3D\Framework\Plugins\MsgPack\obj\Debug\MsgPack.dll
+D:\Unity3D\U3D\Framework\Plugins\MsgPack\obj\Debug\MsgPack.pdb
+D:\Unity3D\U3D\Framework\Plugins\MsgPack\obj\Debug\MsgPack.csprojResolveAssemblyReference.cache
+E:\Framework\Plugins\MsgPack\bin\Debug\MsgPack.dll
+E:\Framework\Plugins\MsgPack\bin\Debug\MsgPack.pdb
+E:\Framework\Plugins\MsgPack\obj\Debug\MsgPack.dll
+E:\Framework\Plugins\MsgPack\obj\Debug\MsgPack.pdb

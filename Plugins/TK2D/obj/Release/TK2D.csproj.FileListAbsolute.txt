@@ -1,0 +1,5 @@
+E:\Framework\Plugins\TK2D\bin\Release\TK2D.dll
+E:\Framework\Plugins\TK2D\bin\Release\TK2D.pdb
+E:\Framework\Plugins\TK2D\bin\Release\UnityEngine.dll
+E:\Framework\Plugins\TK2D\obj\Release\TK2D.dll
+E:\Framework\Plugins\TK2D\obj\Release\TK2D.pdb

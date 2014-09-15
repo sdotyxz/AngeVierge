@@ -1,0 +1,12 @@
+D:\Unity3D\U3D\Framework\UI\bin\Debug\UI.dll
+D:\Unity3D\U3D\Framework\UI\bin\Debug\UI.pdb
+D:\Unity3D\U3D\Framework\UI\bin\Debug\UnityEngine.dll
+D:\Unity3D\U3D\Framework\UI\obj\Debug\UI.dll
+D:\Unity3D\U3D\Framework\UI\obj\Debug\UI.pdb
+D:\Unity3D\U3D\Framework\UI\bin\Debug\NGUI.dll
+D:\Unity3D\U3D\Framework\Plugins\UI\bin\Debug\UI.dll
+D:\Unity3D\U3D\Framework\Plugins\UI\bin\Debug\UI.pdb
+D:\Unity3D\U3D\Framework\Plugins\UI\bin\Debug\UnityEngine.dll
+D:\Unity3D\U3D\Framework\Plugins\UI\obj\Debug\UI.dll
+D:\Unity3D\U3D\Framework\Plugins\UI\obj\Debug\UI.pdb
+D:\Unity3D\U3D\Framework\Plugins\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache

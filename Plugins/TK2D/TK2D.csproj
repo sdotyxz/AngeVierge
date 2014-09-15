@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43BD54FE-DD45-4983-98BB-0E9E6A9EE097}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TK2D</RootNamespace>
+    <AssemblyName>TK2D</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;UNITY_EDITOR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEditor">
+      <HintPath>E:\Program Files (x86)\Unity4.5\Editor\Data\Managed\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>D:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tk2dTileMap\Code\tk2dTileMap.cs" />
+    <Compile Include="tk2dTileMap\Code\tk2dTileMapBuilderUtil.cs" />
+    <Compile Include="tk2dTileMap\Code\tk2dTileMapChunks.cs" />
+    <Compile Include="tk2dTileMap\Code\tk2dTileMapColliderBuilder.cs" />
+    <Compile Include="tk2dTileMap\Code\tk2dTileMapColliderBuilder2D.cs" />
+    <Compile Include="tk2dTileMap\Code\tk2dTileMapData.cs" />
+    <Compile Include="tk2dTileMap\Code\tk2dTileMapMeshBuilder.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIBaseItemControl.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIDragItem.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIDropDownItem.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIDropDownMenu.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIHoverItem.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIMultiStateToggleButton.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIProgressBar.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIScrollableArea.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIScrollbar.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUISoundItem.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUITextInput.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIToggleButton.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIToggleButtonGroup.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIToggleControl.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUITweenItem.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIUpDownButton.cs" />
+    <Compile Include="tk2dUI\Code\Controls\tk2dUIUpDownHoverButton.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUIAudioManager.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUICamera.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUIItem.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUILayout.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUILayoutContainer.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUILayoutContainerSizer.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUIManager.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUIMask.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUISpriteAnimator.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUITime.cs" />
+    <Compile Include="tk2dUI\Code\Core\tk2dUITouch.cs" />
+    <Compile Include="tk2d\Code\Camera\tk2dCamera.cs" />
+    <Compile Include="tk2d\Code\Camera\tk2dCameraAnchor.cs" />
+    <Compile Include="tk2d\Code\Camera\tk2dCameraUtil.cs" />
+    <Compile Include="tk2d\Code\Fonts\tk2dFont.cs" />
+    <Compile Include="tk2d\Code\Fonts\tk2dFontData.cs" />
+    <Compile Include="tk2d\Code\Fonts\tk2dTextGeomGen.cs" />
+    <Compile Include="tk2d\Code\Fonts\tk2dTextMesh.cs" />
+    <Compile Include="tk2d\Code\Gui\tk2dButton.cs" />
+    <Compile Include="tk2d\Code\Runtime\tk2dResource.cs" />
+    <Compile Include="tk2d\Code\Runtime\tk2dSystem.cs" />
+    <Compile Include="tk2d\Code\Runtime\tk2dUpdateManager.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dAnimatedSprite.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dBaseSprite.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dClippedSprite.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dPixelPerfectHelper.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dRuntimeSpriteCollection.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSlicedSprite.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSprite.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteAnimation.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteAnimator.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteAttachPoint.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteCollection.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteCollectionData.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteCollectionInterfaces.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteCollectionSize.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteFromTexture.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dSpriteGeomGen.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dStaticSpriteBatcher.cs" />
+    <Compile Include="tk2d\Code\Sprites\tk2dTiledSprite.cs" />
+    <Compile Include="tk2d\Code\tk2dUtil.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

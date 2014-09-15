@@ -1,0 +1,17 @@
+D:\Unity3D\U3D\Framework\Plugins\Helper\bin\Release\Helper.dll
+D:\Unity3D\U3D\Framework\Plugins\Helper\bin\Release\Helper.pdb
+D:\Unity3D\U3D\Framework\Plugins\Helper\bin\Release\NGUI.dll
+D:\Unity3D\U3D\Framework\Plugins\Helper\bin\Release\UnityEngine.dll
+D:\Unity3D\U3D\Framework\Plugins\Helper\bin\Release\NGUI.pdb
+D:\Unity3D\U3D\Framework\Plugins\Helper\obj\Release\Helper.csprojResolveAssemblyReference.cache
+D:\Unity3D\U3D\Framework\Plugins\Helper\obj\Release\Helper.dll
+D:\Unity3D\U3D\Framework\Plugins\Helper\obj\Release\Helper.pdb
+E:\Framework\Plugins\Helper\obj\Release\Helper.csprojResolveAssemblyReference.cache
+E:\Framework\Plugins\Helper\obj\Release\Helper.dll
+E:\Framework\Plugins\Helper\obj\Release\Helper.pdb
+E:\Framework\Plugins\Helper\bin\Release\Helper.dll
+E:\Framework\Plugins\Helper\bin\Release\Helper.pdb
+E:\Framework\Plugins\Helper\bin\Release\NGUI.dll
+E:\Framework\Plugins\Helper\bin\Release\Spine.dll
+E:\Framework\Plugins\Helper\bin\Release\NGUI.pdb
+E:\Framework\Plugins\Helper\bin\Release\Spine.pdb
